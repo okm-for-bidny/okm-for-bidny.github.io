@@ -21,6 +21,7 @@ body{
         display: inline-block;
         position: relative;
         transition: .8s;
+	text-align: center;
         }
 .menu li a {
         margin: 7px 0 0 0;
