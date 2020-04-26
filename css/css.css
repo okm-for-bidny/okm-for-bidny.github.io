@@ -30,6 +30,7 @@ body{
         height: 30px;
         color: #006A35;
         text-decoration: none;
+	text-align: center;
         }
 .menu li:hover{
           background: #00CED1;
